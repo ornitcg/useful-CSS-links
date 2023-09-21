@@ -6,6 +6,10 @@ Animation
 
 - [@Flexbox cheatsheet](https://darekkay.com/flexbox-cheatsheet/)
 
+- [@Animate.css](https://animate.style/) 
+
+- 
+
 
 CSS features support
 - [@Which browser supports css features](https://www.w3schools.com/cssref/css3_browsersupport.php)
