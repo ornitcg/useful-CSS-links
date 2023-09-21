@@ -8,7 +8,7 @@ Animation
 
 - [@Animate.css](https://animate.style/) 
 
-- 
+  
 
 
 CSS features support
