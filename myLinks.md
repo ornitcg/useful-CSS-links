@@ -1,5 +1,8 @@
 - [@Name](URL) 
 
+GENERAL CSS
+https://web.dev/learn/css/
+
 
 Animation
 
