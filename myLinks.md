@@ -17,6 +17,8 @@ Animation
   CSS GRID
   https://grid.malven.co/
 
+- [@display features explaied](https://www.youtube.com/watch?v=LDJMmKkpsVc&t=64s)
+
 
 CSS features support
 - [@Which browser supports css features](https://www.w3schools.com/cssref/css3_browsersupport.php)
